@@ -2,9 +2,10 @@
 
 
 
-- 🔭 Sou uma iniciante com muita garra para aprender. 
-- 🌱 Futura desenvolvedora back-end.
-- 📫 Em busca do meu primeiro "Sim".
+- Sou uma iniciante com muita garra para aprender. 
+- Graduanda em Análise e Desenvolvimento de Sistemas.
+- Full Stack Development.
+- Em busca do meu primeiro "Sim".
 
 
 <p align="end" margin-top="55px">
