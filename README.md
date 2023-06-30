@@ -2,7 +2,7 @@
 
 
 
-- 🔭 Sou uma iniciante com muita determinação para aprender. 
+- 🔭 Sou uma iniciante com muita garra para aprender. 
 - 🌱 Futura desenvolvedora back-end.
 - 📫 Em busca do meu primeiro "Sim".
 
