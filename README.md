@@ -1,12 +1,11 @@
 ### Olá, sou a Jéssica 👋
 
 
-
+- Atuo como Backend Python Junior.
 - Sou uma iniciante com muita garra para aprender. 
 - Graduanda em Análise e Desenvolvimento de Sistemas.
 - MBA em Dados com ênfase em Big Data, Business Intelligence e Inteligência Competitiva.
 - Full Stack Development.
-- Em busca do meu primeiro "Sim" na área tech.
 
 
 <p align="end" margin-top="55px">
